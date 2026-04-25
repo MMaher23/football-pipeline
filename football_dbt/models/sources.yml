@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: football
+    database: footballdw
+    schema: public
+    tables:
+      - name: raw_fixtures
+        description: "Raw fixture data loaded by Airflow from the football API"

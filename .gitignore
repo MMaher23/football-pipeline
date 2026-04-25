@@ -1,0 +1,11 @@
+venv/
+raw_data/
+silver_data/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+football_dbt/target/
+football_dbt/dbt_packages/
+football_dbt/logs/
+logs/

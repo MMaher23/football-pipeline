@@ -1,0 +1,5 @@
+requests
+python-dotenv
+apache-airflow-providers-microsoft-azure
+azure-storage-file-datalake
+dbt-postgres
