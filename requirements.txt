@@ -1,5 +1,8 @@
 requests
 python-dotenv
-apache-airflow-providers-microsoft-azure
-azure-storage-file-datalake
+dbt-core
 dbt-postgres
+psycopg2-binary
+azure-storage-file-datalake
+azure-identity
+pyodbc
